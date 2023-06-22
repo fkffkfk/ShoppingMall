@@ -1,0 +1,10 @@
+.custom-table {
+    border-collapse: collapse; /* 표 테두리를 합칩니다. */
+    border: 1px solid black; /* 표의 외곽선을 지정합니다. */
+  }
+  
+  .custom-table th,
+  .custom-table td {
+    border: 1px solid black; /* 각 셀의 테두리를 지정합니다. */
+    padding: 8px; /* 셀 안의 여백을 지정합니다. */
+  }
